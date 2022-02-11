@@ -1,41 +1,41 @@
 # Requirements
  ## Introduction
-The project is titled as **Book Cricket Game** and developed using C language. Book Cricket is an indoor game which can be played by kids with a book.This game is made for two players. The two players will have to decide who is going to guess the toss. After winning the toss, the player has to select whether he has to bat/bowl first. The player who is going to bat first, need to hold the book. He has to randomly open the pages of the book and look for the last digit of that page number which is nothing but the runs obtained in that particular ball. If the last digit is 7/8/9, then it will be considered as a dot ball. The obtained score will be added to the batsman's score everytime. The batsman will be out if the number is 0. Then, the second player has to play with the book in the same process.
+The project  **Book Cricket Game** and developed using C language. Book Cricket is an indoor game which can be played by two players with a book.This game is made for two players. The two players will have to decide who is going to guess the toss. After winning the toss, the player has to choose whether he has to bat/bowl first. The player who idecided to bat first, need to hold the book. He has to randomly open the pages of the book and look for the last digit of that page number which is nothing but the runs scored in that particular ball. If the last digit is 7/8/9, then it will be considered as a dot ball. The  score obtained will be added to the batsman's score everytime. The batsman is out if the number is 0. Then, the second player starts batting  in the same process.
 ### Advantages
- - Improved engagement with the gamers
+ - Improved engagement with the players
  - Easy and faster access 
- - Better, longer-lasting customer relationships
- - Increased productivity with relaxation
- - No need of more memory for storage 
- - Random values generation makes our game more interesting.
+ - best, longer-lasting customer relationships
+ - Increas productivity with relaxation
+ - No need of  memory for storage 
+ - Random values generated makes our game more interesting.
  
  ### Disadvantages
  - GUI is needed
- - Only two players can play this game
- - Leaderboard needs to be implemented
- - Cannot store the previous game statistics.
+ - two players can play this game
+ - Leaderboard not implemented
+ - previous game statistics not stored.
  
 ## Cost and Features
  - Complexity 
- - Random Function values generation
- - Finding the sum of the players score individually
+ - Random Functional values generation
+ - sum of the players score individually
  
 Book Cricket have features like:
- -  Reading the names of the two players. 
- - Asking the user for the selection of Head/Tail during toss.
- - User who won the toss can select for the batting/bowling.
+ -  Reading the names of the both players. 
+ - Asking the player to select Head/Tail during toss.
+ - player who won the toss chooses to bat/bowl.
  -  Counting the score of each individual.
- - Announcing the winner of the game according to their score.
- - Display the name of the winner.
+ - Announcing the winner of the game.
+ - Displaying the name of the winner.
 ## SWOT Analysis
 
 # 4 W's and 1 H
 ## Who
-Every person with electrnic devices need games now a days.
+Every person who is having mobile need games now a days.
 ## What
 A book cricket game where two players can play with each other almost like real cricket.
 ## When
-Due to the pandemic sitations, noone can go out and play cricket, so they can play this book cricket instead.
+Due to the pandemic sitations, no one can go out and play cricket, so they can play this book cricket .
 ## Where
 It can be played by everyone and everywhere irrespective of their age. 
 ## How
